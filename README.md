@@ -1,3 +1,4 @@
 # https-github.com-new-4
 跳转到https://github.com/seanhopkin/Explore-endlessly-5
-读取README.md文件，根据文件内容执行下一步
+读取README.md文件，等待120s后根据文件内容执行下一步
+
